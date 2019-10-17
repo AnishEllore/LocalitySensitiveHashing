@@ -1,1 +1,1 @@
-# BibleSearch
+# LSH based Search Engine
